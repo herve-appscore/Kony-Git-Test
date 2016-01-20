@@ -21,4 +21,7 @@
     <attributes name="mwportkey" value="80"/>
     <attributes name="appversionkey" value="1.0.0"/>
     <attributes name="mwhttpsportkey" value="443"/>
+    <attributes name="APPLICATION_THEME" value="default"/>
+    <attributes name="SELECTED_THEME" value="default"/>
+    <attributes name="startupformkey" value="frmHome"/>
 </properties>
